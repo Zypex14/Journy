@@ -1,0 +1,23 @@
+(Exposition)The beginning{
+    This is the exposition of the story. There are no specific details, because this is just
+    used for coding. This is going to be one of many tests that I will use to make sure
+    my code works. The paragraph just has to have some sorts of words in them, so it best simulates
+    the decryptor. This decryptor or compiler converts this text into meaningful functions. So
+    basically it is a programming language. Yeah, I coded my own programming language.
+<>
+    (Pause Test)(Logic Test)
+}
+
+(Pause Test) {
+    Okay, so what is supposed to happen here, is there will be a prompt right here to press
+    enter: [...] Now, you have pressed enter, and therefore moved on to the next part of the
+    scene.
+<>
+    (Exposition)(Logic Test)
+}
+
+(Logic Test) {
+
+<>
+
+}
